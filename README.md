@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashok Kumar Tarai
-- 👀 I’m interested in Frontend And Database.
+- 👀 I’m interested in Python Automation Testing And Database.
 - 🌱 I’m currently learning Framework like Angular
 - 💞️ I’m looking for an opportunity
 - 📫 How to reach me: Email-ashoktarai0001@gmail.com ph-7992808432
